@@ -11,6 +11,22 @@ Just need below commands : <br>
 
 ---
 
+🚀 Features <br>
+
+📊 Beautiful dashboard with charts and widgets <br>
+
+🧑‍⚕️ Patient, Doctor, and Appointment overview <br>
+
+💊 Hospital stats and performance tracking <br>
+
+🌙 Light/Dark mode support (via MUI theme) <br>
+
+⚙️ Fully responsive layout <br>
+
+🔧 Easy to customize and extend
+
+---
+
 🙌 Credits <br>
 
 This project is based on the open-source template by <br>
