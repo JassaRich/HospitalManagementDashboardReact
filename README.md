@@ -8,3 +8,7 @@ Just need below commands : <br>
 # npm install
 
 # npm start
+
+This project is based on the open-source template by Shoeb Tamboli.
+I customized it for my YouTube video tutorial on React + MUI Hospital Dashboard.
+
