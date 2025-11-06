@@ -9,6 +9,17 @@ Just need below commands : <br>
 
 # npm start
 
-This project is based on the open-source template by Shoeb Tamboli.
-I customized it for my YouTube video tutorial on React + MUI Hospital Dashboard.
+---
 
+🙌 Credits <br>
+
+This project is based on the open-source template by <br>
+Shoeb Tamboli → React-mui-Dashboard-Hospital <br>
+
+Customized and maintained by Ajay for YouTube tutorials and educational use.<br>
+
+📜 License <br>
+
+This project respects the original open-source license. <br>
+You are free to use and modify the code for learning and personal projects. <br>
+Please keep credits if you share or fork this repo.
